@@ -26,4 +26,4 @@ He creado el equipo con mi nombre en el github de la asignatura.
 ## Solicitar las ventajas de estudiante de github
 Ya tengo las ventajas activas, pues las solicité en una asignatura anterior. La prueba de ello es que tengo activa la suscripción de github pro.
 
-![github backpack](docs/backpack.png)
+![github pro](docs/captura_student_github.png)
