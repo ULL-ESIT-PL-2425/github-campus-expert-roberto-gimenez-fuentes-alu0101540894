@@ -11,8 +11,8 @@ He rellenado el cuestionario y he recibido el correo de confirmación correspond
 ![correo de confirmacion del cuestionario](docs/captura_confirmación_email.png)
 
 ## Crear equipo con nombre correcto
-
-![equipo](docs/equipo.png)
+He creado el equipo con mi nombre en el github de la asignatura.
+![equipo](docs/captura_grupo_github.png)
 
 ## Crear un project board kanban para este repositorio
 
