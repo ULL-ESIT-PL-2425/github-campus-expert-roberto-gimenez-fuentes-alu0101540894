@@ -10,14 +10,20 @@ He rellenado el cuestionario y he recibido el correo de confirmación correspond
 
 ![correo de confirmacion del cuestionario](docs/captura_confirmación_email.png)
 
+## Aceptar la invitación al classroom de la asignatura
+![github-classroom](docs/github_classroom.png)
+
 ## Crear equipo con nombre correcto
 He creado el equipo con mi nombre en el github de la asignatura.
 ![equipo](docs/captura_grupo_github.png)
+
+
 
 ## Crear un project board kanban para este repositorio
 
 ![project board kanban](docs/project_board.png)
 
-## Solicitar el GitHub Backpack
+## Solicitar las ventajas de estudiante de github
+Ya tengo las ventajas activas, pues las solicité en una asignatura anterior. La prueba de ello es que tengo activa la suscripción de github pro.
 
 ![github backpack](docs/backpack.png)
